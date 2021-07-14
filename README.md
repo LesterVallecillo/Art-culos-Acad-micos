@@ -1,2 +1,2 @@
-# Art-culos-Acad-micos
+# Articulos-Academicos
 Artículos académicos sobre Matemática aplicada
